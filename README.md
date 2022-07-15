@@ -3,8 +3,8 @@
 - 👨 I am **Gathiira Mwangi**, working as a **Backend Engineer** at [Sky.Garden](https://sky.garden)
 - 💻 I have 2+ years of work experience in the Software Development field.
 - 🌱 I’m currently learning React JS & Cloud(Azure, GCP, AWS).
-- 👯 I’m always in for a collaboration. Hit me up if you have cool projects we can code.
 - 💞️ Interests &rarr; Coding, listening to music and Planting Trees.
+- 👯 I’m always in for a collaboration. Hit me up if you have a cool project we can code.
 
 ## Tech Stack
 
@@ -41,11 +41,16 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+## Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gathiira-mwangi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://gathiira.github.io/)
-
 
 <!--
 **Gathiira/Gathiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
