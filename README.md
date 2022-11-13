@@ -1,7 +1,7 @@
 # Hello there 👋
   
-- 👨 I am **Gathiira Mwangi**, working as a **Backend Engineer** at [Sky.Garden](https://sky.garden)
-- 💻 I have 2+ years of work experience in the Software Development field.
+- 👨 I am **Gathiira Mwangi**, working as a **Backend Engineer**
+- 💻 I have 3+ years of work experience in the Software Development field.
 - 🌱 I’m currently learning React JS & Cloud(Azure, GCP, AWS).
 - 💞️ Interests &rarr; Coding, listening to music and Planting Trees.
 - 👯 I’m always in for a collaboration. Hit me up if you have a cool project we can code.
