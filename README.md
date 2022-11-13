@@ -2,7 +2,7 @@
   
 - 👨 I am **Gathiira Mwangi**, working as a **Software Engineer**
 - 💻 I have 3+ years of work experience in the Software Development field.
-- 🌱 I’m currently learning React JS & Cloud(Azure, GCP, AWS).
+- 🌱 I’m currently advancing my skills in React JS & Cloud(Azure, GCP, AWS).
 - 💞️ Interests &rarr; Coding, listening to music and Planting Trees.
 - 👯 I’m always in for a collaboration. Hit me up if you have a cool project we can code.
 
