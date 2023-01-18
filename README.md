@@ -1,10 +1,11 @@
 # Hello there 👋
   
-- 👨 I am **Gathiira Mwangi**, working as a **Software Engineer**
+- 👨 I am **Gathiira Mwangi**, a **Software Engineer 👨‍💻 🫣**
 - 💻 I have 3+ years of work experience in the Software Development field.
-- 🌱 I’m currently advancing my skills in React JS & Cloud(Azure, GCP, AWS).
+- 💬 Ask me anything related python or React 🤫
+- 🌱 I’m currently advancing my skills in Cloud(Azure, GCP, AWS) and System Security.
 - 💞️ Interests &rarr; Coding, listening to music and Planting Trees.
-- 👯 I’m always in for a collaboration. Hit me up if you have a cool project we can code.
+- 👯 I’m always in for a collaboration. Hit me up if you have a cool project.
 
 ## Tech Stack
 
@@ -54,15 +55,4 @@
 
 <!--
 **Gathiira/Gathiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
