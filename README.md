@@ -3,9 +3,7 @@
 - 👨 I am **Gathiira Mwangi**, a **Software Engineer 👨‍💻 🫣**
 - 💻 I have 5+ years of work experience in the Software Development field.
 - 🌱 I’m currently advancing my skills in Cloud(Azure, GCP, AWS) and System Security.
-- 💞️ Interests &rarr; Coding, listening to music and Planting Trees.
 - 👯 I’m always in for a collaboration. Hit me up if you have a cool project.
-- 💬 Ask me anything related to python or React 🤫
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-fff?style=for-the-badge&logo=Java&logoColor=white)
