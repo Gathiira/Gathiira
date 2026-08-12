@@ -1,7 +1,7 @@
 # Hello there 👋
   
 - 👨 I am **Gathiira Mwangi**, a **Software Engineer 👨‍💻**
-- 💻 I have 5+ years of work experience in the Software Development field.
+- 💻 I have 5+ years of work experience in SDLC.
 - 🌱 I’m always advancing my skills in SDLC.
 
 ## Tech Stack
