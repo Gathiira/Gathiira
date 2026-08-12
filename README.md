@@ -1,9 +1,8 @@
 # Hello there 👋
   
-- 👨 I am **Gathiira Mwangi**, a **Software Engineer 👨‍💻 🫣**
+- 👨 I am **Gathiira Mwangi**, a **Software Engineer 👨‍💻**
 - 💻 I have 5+ years of work experience in the Software Development field.
-- 🌱 I’m currently advancing my skills in Cloud(Azure, GCP, AWS) and System Security.
-- 👯 I’m always in for a collaboration. Hit me up if you have a cool project.
+- 🌱 I’m always advancing my skills in SDLC.
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-fff?style=for-the-badge&logo=Java&logoColor=white)
@@ -33,7 +32,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Others
 
